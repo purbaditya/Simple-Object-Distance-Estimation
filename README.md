@@ -3,6 +3,7 @@ Simple ML algorithms from skikit-learn and neural networks applied on tabular da
 
 # Create virtual environment and activate
 python -m venv kitti_dist_est
+
 kitti_dist_est/Scripts/activate
 
 # Install requirements
