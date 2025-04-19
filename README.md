@@ -10,7 +10,7 @@ kitti_dist_est/Scripts/activate
 pip install -r requirements.txt
 
 -------------------------------------------------------------------------------------------------------------
-# Some examples of distance estimation of cars in the test dataset in the form of 'estimated/actual' distance
+# Examples of distance estimation from test dataset in the form of 'estimated/actual' distance
 (the ones not annotated with distance estimation are part of the training dataset)
 
 <img width="931" alt="TestCar4" src="https://github.com/user-attachments/assets/300737d3-fa32-4de1-8cd7-1560c3a285a9" />
